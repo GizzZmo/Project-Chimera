@@ -1,0 +1,6 @@
+{
+  "name": "Chimera",
+  "description": "A web interface powered by Gemini, designed with a Cypherpunk ethos. It prioritizes privacy, transparency, and user empowerment in web search and file analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
